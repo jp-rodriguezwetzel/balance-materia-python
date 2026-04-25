@@ -33,3 +33,10 @@ Entrada:
 
 Resultado:
 La acumulación es: 15 kg/h
+
+## Características
+
+- Calcula el balance de materia
+- Valida que los datos ingresados sean números
+- Maneja errores de entrada
+- Aplicación de conceptos de ingeniería química
